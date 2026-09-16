@@ -1,5 +1,8 @@
 # VisionKnob
 
+<img width="1672" height="941" alt="WhatsApp Image 2026-09-16 at 11 52 13 AM" src="https://github.com/user-attachments/assets/bcce4a2f-75ce-46d9-a3bd-3c270cd95eda" />
+
+
 VisionKnob is a local image-understanding assistant controlled through an Arduino UNO Q and Modulino hardware. Select an image with the Modulino Knob, type a question in Streamlit, and press Button A to submit it to a locally running Gemma vision model through GenieX.
 
 ## What it does
