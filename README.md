@@ -99,6 +99,20 @@ data/index.json                            Image metadata and descriptions
 pitch/VisionKnob_Pitch_Deck.pptx           Pitch deck with speaker notes
 pitch/create_deck.py                       Pitch deck generator
 ```
+**Real-world applications**
+
+- **Accessibility:** Hands-free or low-vision image exploration using physical controls and audio/display feedback.
+- **Field inspection:** Inspect plants, equipment, construction sites, or landscapes without relying on cloud connectivity.
+- **Education:** Teach computer vision, embedded systems, Arduino, and AI through a tactile interface.
+- **Healthcare support:** Privately analyze forms, labels, or visual records locally, subject to medical validation.
+- **Manufacturing:** Identify defects or verify parts while keeping factory images on-site.
+- **Retail and inventory:** Ask questions about product images, packaging, or stock conditions.
+- **Agriculture:** Inspect crops, leaves, soil, or field conditions at the edge.
+- **Museums and archives:** Explore large local image collections using a physical browsing controller.
+- **Emergency response:** Analyze images in environments with limited or unreliable internet.
+- **Privacy-sensitive organizations:** Support local visual search where images cannot be uploaded to external AI services.
+
+The strongest initial use cases are **education, accessibility, field inspection, and privacy-sensitive visual search** because they directly benefit from the physical controls and local inference.
 
 ## Troubleshooting
 
