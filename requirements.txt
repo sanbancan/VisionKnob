@@ -1,0 +1,4 @@
+requests>=2.32.0
+pyserial>=3.5
+streamlit>=1.40.0
+uv>=0.12.15

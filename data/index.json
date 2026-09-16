@@ -1,0 +1,20 @@
+[
+  {
+    "name": "OIP.jpg",
+    "path": "data/images/OIP.jpg",
+    "note": "",
+    "description": "The image depicts a vibrant red car, likely a modern sports vehicle, driving through a natural, possibly forested, setting."
+  },
+  {
+    "name": "sunflower-pacquito-colorado.jpg",
+    "path": "data/images/sunflower-pacquito-colorado.jpg",
+    "note": "",
+    "description": "A close-up, high-resolution image of a red, yellow and brown sunflower."
+  },
+  {
+    "name": "Moeraki-Boulders-New-Zealand.jpg",
+    "path": "data/images/Moeraki-Boulders-New-Zealand.jpg",
+    "note": "",
+    "description": "This image shows a dramatic sunset over a beach with large, rocky formations emerging from the water."
+  }
+]
